@@ -1,0 +1,7 @@
+{
+  "name": "MyCrud",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
